@@ -4,7 +4,7 @@ This repository contains my solutions to the LeetCode Top SQL 50 study plan.
 
 ## Progress
 
--  Completed: 1 / 50
+-  Completed: 3 / 50
 
 ## Topics Covered
 
