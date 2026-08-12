@@ -49,5 +49,6 @@ This repository contains my solutions to the LeetCode Top SQL 50 study plan.
 | [1661-average-time-of-process-per-machine](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
