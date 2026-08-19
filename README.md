@@ -28,6 +28,7 @@ This repository contains my solutions to the LeetCode Top SQL 50 study plan.
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aayaan-khan/leetcode-top-sql-50/tree/master/0584-find-customer-referee) |
